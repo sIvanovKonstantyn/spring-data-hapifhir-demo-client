@@ -1,0 +1,8 @@
+spring:
+  data:
+    fhir:
+      base-url: http://hapi.fhir.org/baseR4
+
+
+
+
